@@ -36,5 +36,5 @@ I'm still early in my journey, but I'm **hungry to learn**, open to feedback, co
 </p>
 
 <p align="center">
-  <i>"The pain you feel today will be the strength you feel tomorrow." — athlete mindset, now coding mindset 💻</i>
+  <i>"He Who Makes No Mistakes, Makes Nothing." </i>
 </p>
