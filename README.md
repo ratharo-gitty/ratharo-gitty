@@ -29,11 +29,7 @@ I'm still early in my journey, but I'm **hungry to learn**, open to feedback, co
 - 🔗 [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chanratharo-rath-5a4502360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 - 🌐 Feel free to check my repos below 👇
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+
 
 <p align="center">
   <i>"He Who Makes No Mistakes, Makes Nothing." </i>
