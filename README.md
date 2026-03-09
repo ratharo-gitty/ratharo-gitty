@@ -8,7 +8,7 @@
 
 I'm a first-year computer science student and lifelong **student-athlete** 🏀🏃‍♂️ turned aspiring software engineer.
 
-Athletics taught me discipline, resilience, teamwork, and how to perform under pressure — skills I'm now applying to write clean code, debug tough problems, and learn fast in tech.
+Athletics taught me discipline, resilience, teamwork, and how to perform under pressure skills I'm now applying to write clean code, debug tough problems, and learn fast in tech.
 
 Right now I'm:
 - Exploring **cybersecurity** 🔒 (ethical hacking, secure coding, networks)
