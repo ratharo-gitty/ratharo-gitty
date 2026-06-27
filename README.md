@@ -26,7 +26,7 @@
 
 ### 🧬 Who I Am
 
-- 🎓 **First-year CS student** — learning with intention
+- 🎓 **First-year SE student** — learning with intention
 - 🏀🏃‍♂️ **Former student-athlete** — discipline now runs in my code
 - ⚡ **Vibecoder** — build fast, ship often, iterate always
 - 🤖 **AI-native builder** — Claude, Codex, Lovable, Base44 are my daily tools
