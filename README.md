@@ -22,6 +22,52 @@
 
 ---
 
+<!--
+  🐉 BOOT SEQUENCE — animated ASCII dragon
+  This gif was generated for you (see dragon.gif). GitHub can't embed a local
+  file straight from markdown, so do ONE of these:
+    1) Commit dragon.gif to this repo (e.g. under /assets/) and point the
+       <img src> below at "assets/dragon.gif", OR
+    2) Drag dragon.gif into a new GitHub issue/comment on any repo — GitHub
+       will upload it and hand you a permanent user-images.githubusercontent.com
+       link. Swap that in below instead.
+-->
+<div align="center">
+
+<img src="assets/dragon.gif" alt="ASCII dragon boot animation — wings spread, flapping" width="560"/>
+
+<sub>🐉 every good terminal — and every good compiler — deserves a dragon</sub>
+
+<details>
+<summary>view raw ascii</summary>
+
+```
+moon@kirirom:~$ ./dragon.sh --takeoff
+                \\\\                       /\                  ////
+              \\\\\\\                     /  \                ///////
+            \\\\\\\\\\                 ( 0  0 )              //////////
+          \\\\\\\\\\\\\                  \ -- /             /////////////
+        \\\\\\\\\\\\\\\\\                  |  |             ////////////////
+      \\\\\\\\\\\\\\\\\\\\\                /|  |\           ///////////////////
+    \\\\\\\\\\\\\\\\\\\\\\\\             / |  | \          //////////////////////
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\           |  |  |  |        /////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\        (   |  |   )       ////////////////////////////
+                                      |  |
+                                      |   \
+                                      \   \_
+                                      \    \_
+                                     |     ~-,_
+                                   |         `-.
+
+[ wings fully deployed ]
+```
+
+</details>
+
+</div>
+
+---
+
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ratharo-gitty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
 
 ### 🧬 Who I Am
@@ -52,7 +98,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 
 **Networking & Systems**
 
@@ -63,12 +109,12 @@
 
 ![Claude](https://img.shields.io/badge/Claude-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logoColor=white)
-![Base44](https://img.shields.io/badge/Base44-0d1117?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge)
+![Base44](https://img.shields.io/badge/Base44-0d1117?style=for-the-badge)
 
 **Dev Environment**
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
